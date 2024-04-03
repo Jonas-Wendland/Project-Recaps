@@ -91,3 +91,7 @@ button {
   width: 34%;
   fill: #c5c0c4;
 }
+.buttonclicked {
+  background-color: #5c0917;
+  fill: rgb(94, 94, 94);
+}
