@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #830d21;
+  margin: -8px;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+}
+h1 {
+    color: #c5c0c4;
+}
