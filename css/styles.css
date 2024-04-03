@@ -59,6 +59,9 @@ p {
   align-self: center;
   padding: 10px;
 }
+.show-answer:hover {
+  background-color: #c5c0c4;
+}
 li {
   display: inline-block;
   background-color: rgb(241, 240, 240);
